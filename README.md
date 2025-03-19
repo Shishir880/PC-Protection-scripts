@@ -5,7 +5,7 @@ Copy
 Welcome to the **Advanced PC Security System**! This is a comprehensive tool designed to monitor your system's health, detect threats, and clean up junk files. It is built using Python and Streamlit, with no reliance on third-party APIs.
 
 
-![Alt Text](path/to/your/image.png)
+![Alt Text](https://github.com/Shishir880/PC-Protection-scripts/blob/main/sp.png)
 ---
 
 ## 🚀 Features
